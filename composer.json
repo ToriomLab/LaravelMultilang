@@ -1,12 +1,13 @@
 {
-    "name": "Toriomlab/laravel-multilang",
+    "name": "toriomlab/laravel-multilang",
     "description": "Support Laravel Translations From Database For Translatable Columns In Other Tables",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Toriomlab",
-            "email": "info@toriom.com"
+            "email": "info@toriom.com",
+            "homepage": "http://toriom.com"
         }
     ],
     "minimum-stability": "dev",
