@@ -1,4 +1,4 @@
-#Laravel 5.x MultiLanguage
+# Laravel 5.x MultiLanguage
 
 ## Installation
 
@@ -6,7 +6,7 @@ Install this package through [Composer](https://getcomposer.org/).
 
 run a command in your command line:
 
-    composer require toriomlab/laravel-multilang
+    composer require toriomlab/laravel-multilang dev-master
 
 In Laravel the service provider and facade will automatically get registered. 
 
