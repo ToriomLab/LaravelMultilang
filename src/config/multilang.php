@@ -1,7 +1,8 @@
 <?php 
 
 return  [
-    'locales' => [
-        'en', 'ar', 'tr',
+   'locales' => [
+        'en' => 'English', 
+        'ar' => 'عربي', 
     ]
 ];

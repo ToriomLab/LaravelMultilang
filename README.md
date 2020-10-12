@@ -1,4 +1,4 @@
-# Laravel 5.x MultiLanguage
+# Laravel MultiLanguage
 
 ## Installation
 
@@ -13,6 +13,11 @@ In Laravel the service provider and facade will automatically get registered.
 Copy this line to providers at config/app.php file:
 
     Toriomlab\LaravelMultilang\LaravelMultilangServiceProvider::class
+
+To publish and to edit config file run this line :
+
+	php artisan vendor:publish --provider="toriomlab\LaravelMultiLang\MultiLangServiceProvider"
+
 
 After run migration command
 

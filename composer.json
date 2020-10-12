@@ -16,5 +16,7 @@
         "psr-4": {
             "Toriomlab\\LaravelMultilang\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
