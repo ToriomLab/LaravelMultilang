@@ -1,6 +1,6 @@
 <?php
 
-namespace Toriomlab\LaravelMultilang;
+namespace ToriomLab\LaravelMultilang;
 
 use Illuminate\Support\ServiceProvider;
 
