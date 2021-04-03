@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Toriomlab\\LaravelMultilang\\": "src/"
+            "ToriomLab\\LaravelMultilang\\": "src/"
         }
     },
     "minimum-stability": "dev",
