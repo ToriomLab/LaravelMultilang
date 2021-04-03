@@ -1,6 +1,6 @@
 <?php
 
-namespace Toriomlab\LaravelMultilang\Support;
+namespace ToriomLab\LaravelMultilang\Support;
 
 use Exception;
 use Illuminate\Support\Collection;

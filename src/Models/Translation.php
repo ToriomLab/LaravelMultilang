@@ -1,6 +1,6 @@
 <?php
 
-namespace Toriomlab\LaravelMultilang\Models;
+namespace ToriomLab\LaravelMultilang\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
